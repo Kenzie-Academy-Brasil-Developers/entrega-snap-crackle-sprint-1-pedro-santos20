@@ -9,7 +9,7 @@
     4. Se número não for nem ímpar nem múltiplo de 5, concatenar o próprio número no final da string.
     5. Seus itens devem ser separados sempre por __vírgula e espaço__ (veja o exemplo).
     6. Esta função deve __retornar__ a __string__ obtida.
-
+    
 ## Exemplo
 
 __snapCrackle(12)__ deve __retornar__ a string: 
